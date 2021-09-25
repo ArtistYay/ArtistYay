@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Athina Thomas
 - 👀 I’m interested in Cyber Security/Ethical Hacker
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
 - 📫 How to reach me email - athinathomas123@gmail.com
 
 <!---
