@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Athina Thomas
-- 👀 I’m interested in Cyber Security/Ethical Hacking
-- 🌱 I’m currently learning Python
-- 📫 How to reach me email - athinathomas123@gmail.com
+- 👋 Hola, I’m Athina Thomas
+- 👀 I’m interested in Cyber Security/Cloud
+- 🌱 I’m currently learning Python, AWS, DevOps
+- 📫 How to reach me email - athinathomas@protonmail.com
 
 <!---
 ArtistYay/ArtistYay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
