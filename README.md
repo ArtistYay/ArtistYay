@@ -1,6 +1,6 @@
 - 👋 Hola, I’m Athina Thomas
 - 👀 I’m interested in Cyber Security/Cloud
-- 🌱 I’m currently learning Python, AWS, DevOps
+- 🌱 I’m currently learning Python, AWS, Cyber Security
 - 📫 How to reach me email - athinathomas@protonmail.com
 
 <!---
