@@ -1,9 +1,6 @@
 Hola 👋 My name is Athina better known as Artist!
 ==============================================
 
-CyberSecurity Professional
---------------------------
-
 I've been on my IT journey since 2019. Earned my Google IT support certification in 2020 and my CompTIA Security+ 2021. I'm interested in Cybersecurity and Cloud and I would to be one day a security engineer, cloud security engineer, or DevOps/DevSecOps engineer!
 
 * 🌍  I'm based in Atlanta, Georgia
@@ -21,7 +18,6 @@ I've been on my IT journey since 2019. Earned my Google IT support certification
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/artistysy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/ArtistYay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/athina-thomas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/artistyay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/artist_yay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
