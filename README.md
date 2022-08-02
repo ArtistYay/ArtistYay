@@ -1,7 +1,7 @@
 Hola 👋 My name is Athina better known as Artist!
 ==============================================
 
-I've been on my IT journey since 2019. Earned my Google IT support certification in 2020 and my CompTIA Security+ in 2021. I'm interested in Cybersecurity and Cloud!
+I've been on my IT journey since 2019. Earned my Google IT support certification in 2020 and my CompTIA Security+ in 2021. I'm interested in Cybersecurity and Cloud! In my career I would like to save queries, commands, scripts, etc. I use to help me in my journey.
 
 * 🌍  I'm based in Atlanta, Georgia
 * 🖥️  See my portfolio at [artistuniverse.tech](http://artistuniverse.tech)
