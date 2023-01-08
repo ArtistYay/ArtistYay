@@ -1,5 +1,7 @@
-<h1 align="center">Wah gwan👋, I'm am Athina or better known as Artist!</h1>
-<h3 align="center">I've been on my IT journey since 2019. I'm interested in Cloud Security! I will use my Github to save queries, commands, scripts, etc. I used that helped me in my journey.</h3>
+<h1 align="center">Wah gwan👋, I am Athina or better known as Artist!</h1>
+<h3 align="center">I've been on my IT journey since 2019.I'm interested in Cybersecurity and Cloud! I will use my Github to save queries, commands, scripts, etc. I use to help me in my journey.</h3>
+
+- 👯 I’m looking to collaborate on any **cloud security or cloud projects.**
 
 - 📝 I regularly write articles on [artistuniverse.tech](artistuniverse.tech)
 
