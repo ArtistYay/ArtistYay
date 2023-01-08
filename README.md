@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/artist_yay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="artist_yay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/artistyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="artistyay" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://www.stackoverflow.com/users/artistyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://www.stackoverflow.com/users/artistyay" height="30" width="40" /></a>
 <a href="https://instagram.com/artistyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artistyay" height="30" width="40" /></a>
 </p>
 
