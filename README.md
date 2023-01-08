@@ -6,7 +6,7 @@ I've been on my IT journey since 2019. Earned my Google IT support certification
 * 🌍  I'm based in Atlanta, Georgia
 * 🖥️  See my portfolio at [artistuniverse.tech](http://artistuniverse.tech)
 * ✉️  You can contact me at [athinathomas@protonmail.com](mailto:athinathomas@protonmail.com)
-* 🧠  I'm learning AWS, Python with some home labs/projects on the side.
+* 🧠  I'm learning Azure.
 * ⚡  I love music and I like playing video games.
 
 ### Skills
