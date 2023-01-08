@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **on Discord @ ¿Qué? Asesino del silencio#8822**
 
-- ⚡ Fun fact ** I currently live in Atlanta, GA. I love music and I play video games.**
+- ⚡ Fun fact **I currently in Atlanta, GA. I love music and I play video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
