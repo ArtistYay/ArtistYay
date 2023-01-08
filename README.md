@@ -1,28 +1,18 @@
-Hola 👋 My name is Athina better known as Artist!
-==============================================
+<h1 align="center">Wah gwan👋, I'm am Athina or better known as Artist!</h1>
+<h3 align="center">I've been on my IT journey since 2019.I'm interested in Cybersecurity and Cloud! I will use my Github to save queries, commands, scripts, etc. I use to help me in my journey.</h3>
 
-I've been on my IT journey since 2019. Earned my Google IT support certification in 2020 and my CompTIA Security+ in 2021. I'm interested in Cybersecurity and Cloud! Going to save queries, commands, scripts, etc. I use to help me in my journey in my GitHub.
+- 📝 I regularly write articles on [artistuniverse.tech](artistuniverse.tech)
 
-* 🌍  I'm based in Atlanta, Georgia
-* 🖥️  See my portfolio at [artistuniverse.tech](http://artistuniverse.tech)
-* ✉️  You can contact me at [athinathomas@protonmail.com](mailto:athinathomas@protonmail.com)
-* 🧠  I'm learning Azure.
-* ⚡  I love music and I like playing video games.
+- 📫 How to reach me **on Discord @ ¿Qué? Asesino del silencio#8822**
 
-### Skills
+- ⚡ Fun fact **Currently in Atlanta, GA. I love music and I like playing video games.**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://twitter.com/artist_yay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="artist_yay" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:15500274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15500274" height="30" width="40" /></a>
+<a href="https://instagram.com/artistyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artistyay" height="30" width="40" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.codepen.io/artistysy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/ArtistYay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/athina-thomas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/artistyay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/artist_yay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ArtistYay"><img src="https://github-readme-stats.vercel.app/api?username=ArtistYay&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArtistYay's GitHub stats" /></a>
-
-<a href="https://github.com/ArtistYay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtistYay&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
