@@ -1,3 +1,5 @@
+![ViewerCount](https://komarev.com/ghpvc/?username=ArtistYay&color=blueviolet&style=plastic&label=How+Many+Stepped+Into+My+Universe?)
+
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/athinat/">
