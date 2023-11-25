@@ -22,7 +22,7 @@
 </p>
 
 <p align='center'>
-  💬 Ask me about Cloud Security and DevSecOps.
+  💬 Ask me about Cloud Security (IAM & Threat Protection) and DevSecOps.
 </p>
 
 <p align='center'>
