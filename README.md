@@ -26,7 +26,7 @@
 </p>
 
 <p align='center'>
-  ⚡ Fun fact I like playing video games, add me on Playstation @ PangyrizeArtist.
+  ⚡ Fun fact I like playing video games, add me on Playstation @ PanegyrizeArtist.
 </p>
 
 <p align='center'>
