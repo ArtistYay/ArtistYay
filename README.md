@@ -18,11 +18,11 @@
 </p>
 
 <p align='center'>
-  🌱 I’m currently learning Terraform and Python.
+  🌱 I’m currently learning Terraform and the Microsoft Azure ecosystem.
 </p>
 
 <p align='center'>
-  💬 Ask me about Cloud Security (IAM & Threat Protection) and DevSecOps.
+  💬 Ask me about Cloud Security (Gen AI & Threat Protection) and DevSecOps.
 </p>
 
 <p align='center'>
