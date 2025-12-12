@@ -6,10 +6,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/artistyay/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram" />        
   </a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/418533011936772107">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
+  <a href="https://www.youtube.com/@ArtistUniverseUntouched">
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000?style=for-the-badge&logo=youtube" />        
   </a>&nbsp;&nbsp;
 </p>
 
