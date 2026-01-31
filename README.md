@@ -14,7 +14,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ArtistYay&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
+  <!--<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ArtistYay&show_icons=true&count_private=true&theme=tokyonight" width="350"></a> -->
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtistYay&show_icons=true&locale=en&layout=compact" width="350"></a>
 </p>
 
